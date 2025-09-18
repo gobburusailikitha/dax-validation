@@ -1,0 +1,14 @@
+{
+  "name": "SimpleModel",
+  "compatibilityLevel": 1520,
+  "model": {
+    "tables": [
+      {
+        "name": "Sales",
+        "columns": [
+          { "name": "Amount", "dataType": "decimal" }
+        ]
+      }
+    ]
+  }
+}
